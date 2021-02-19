@@ -28,7 +28,7 @@ const game = () => {
         })
 
         // Computer options //
-        const computerOptions = ["rock", "paper", "scissors"];
+        const computerOptions = ["pedra", "papel", "tesoura"];
 
         options.forEach((option) => {
             option.addEventListener("click", function () {
@@ -71,8 +71,8 @@ const game = () => {
 
         // Checking for Rock
 
-        if (playerChoice === "rock") {
-            if (computerChoice === "scissors") {
+        if (playerChoice === "pedra") {
+            if (computerChoice === "tesoura") {
                 winner.textContent = "Vitória do Jogador"
                 pScore++;
                 updateScore();
@@ -86,8 +86,8 @@ const game = () => {
 
         }
         //Checking for Paper
-        if (playerChoice === "paper") {
-            if (computerChoice === "rock") {
+        if (playerChoice === "papel") {
+            if (computerChoice === "pedra") {
                 winner.textContent = "Vitória do Jogador"
                 pScore++;
                 updateScore();
@@ -101,8 +101,8 @@ const game = () => {
 
         }
         //Checking for Scissors
-        if (playerChoice === "scissors") {
-            if (computerChoice === "paper") {
+        if (playerChoice === "tesoura") {
+            if (computerChoice === "papel") {
                 winner.textContent = "Vitória do Jogador"
                 pScore++;
                 updateScore();
