@@ -13,7 +13,8 @@
 
 ## 📝 Description
 
->💻 Dev.finances is a budget application, where you can register and delete transactions and see the balance of incoming and expenses, the project was created Rocketseat in order to explore notions of HTML, CSS and JavaScript. 💰
+>💻 Rock, Paper and Scissors  is a simple hand game for two or more people, which requires no equipment or skill, also is often used as a method of selection, 
+as well as throwing coins, playing dice, among others, now available online against computer I.A.
 
 
 
@@ -21,11 +22,8 @@
 
 ## 💻 Project
 
-* <b>Incoming and Expensess</b>: It is possible to monitor how much has been spent and how much has been received, with the total result of available money.
+* <b>Play</b>: You can play unlimited times against the machines using any of the default options.
 
-* <b>New Transaction</b>: It is possible to insert new values, either expenses or income.
-
-* <b>Transactions Details</b>: The user has access to the transaction history on the page, and it is also possible to delete any transaction, being updated the amount at the entry, exit and total at the top of the screen.
 
 <h1 align="center">
     <img src="read00.PNG"/>
@@ -55,7 +53,9 @@ This project is currently finished.
 
 ## :heavy_check_mark: To do list
 
-- Dark Mode
+- Player vs Player mode
+- Ranked mode
+- Wager Mode
 
 ---
 
