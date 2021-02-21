@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="logo05.png"/>
+    <img src="./assets/logo05.png"/>
 </h1>
 
 # Summary
@@ -26,7 +26,7 @@ as well as throwing coins, playing dice, among others, now available online agai
 
 
 <h1 align="center">
-    <img src="read00.PNG"/>
+    <img src="./assets/read00.PNG"/>
 </h1>
 
 
