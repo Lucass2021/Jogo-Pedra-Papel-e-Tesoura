@@ -56,6 +56,7 @@ This project is currently finished.
 - Player vs Player mode
 - Ranked mode
 - Wager Mode
+- Full Portuguese Translation
 
 ---
 
